@@ -1,10 +1,12 @@
 homfrie.com
 =====================
 
+This version is currently unfinished but can be demoed by following usage.
+
 ### Usage
 
 ```
 npm install
-npm start
-open http://localhost:3000
+npm dev
+open http://localhost:8080/webpack-dev-server/
 ```
